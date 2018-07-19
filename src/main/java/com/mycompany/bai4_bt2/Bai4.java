@@ -32,7 +32,9 @@ public class Bai4 {
                     }
 
                 });
-        /* Chinh sua tren server may client */
+
+        /* Chinh sua hop nhat giua server & client */
+
     }
 
     public static LoadingCache<Integer, String> getLoadingCache() {
@@ -65,3 +67,8 @@ public class Bai4 {
         return result1.toString();
     }
 }
+
+
+
+
+
