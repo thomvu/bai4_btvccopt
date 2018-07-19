@@ -32,6 +32,7 @@ public class Bai4 {
                     }
 
                 });
+        /* Chinh sua tren server github */
     }
 
     public static LoadingCache<Integer, String> getLoadingCache() {
