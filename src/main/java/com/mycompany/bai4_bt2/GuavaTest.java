@@ -21,7 +21,7 @@ public class GuavaTest {
             String id = request.queryParams("n");
             return guavaTest.getStudentUsingGuava(Integer.parseInt(id));
         });
-        
+        //vu thi thom
 //        try {
 //            // Access student first time with id 1, getStudentUsingGuava() will
 //            // be called.
